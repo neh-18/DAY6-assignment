@@ -1,0 +1,7 @@
+1. A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.Category of pl include: 1. machine level language, 2. assembly language, 3. high level language. The term pl basically refers to high-level language such as JAVA, C++, C, BASIC,COBOL,FORTRAN, Pascal.
+2. We need pl to communicate with computer not for academics, but for real world as well we need programming in our day to day life. It is used in online banking, travelling ticket of train and booking flight. 
+3.  Features of java: simple, robust, distributed, portable, object oriented, platform independent, multithreading, secure
+4. An object is an instance of class.An object is a real world entity which has it's identity, state and behavior. An object is something which we can see. For Example : car, table, chair.
+5. A class is a blueprint or prototype from which objects are created. It is a user -defined type that describes what a certain type of object will look like. It has similar traits, behaviors and attributes.
+6. main method() is the entry point for executing a java program.without it jvm can't execute a program. Syntax of main method():public static void main(String args[])
+
